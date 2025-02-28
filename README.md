@@ -1,4 +1,6 @@
 # 🚀 Partner Example App
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fpartner-example-app.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fpartner-example-app?ref=badge_shield)
+
 A partner application example that performs Aircall's OAuth flow and subscribes to webhook events on the Public API.
 
 Want to build an integration with Aircall? Check out our [API documentation](https://developer.aircall.io)
@@ -54,3 +56,7 @@ Once your environment variables are setup, you can use:
 Once the app is running, head to `localhost:3000/oauth/install` to launch the OAuth flow.
 You can visit `localhost:3011` to see the YARD documentation of the project.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fpartner-example-app.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fpartner-example-app?ref=badge_large)
